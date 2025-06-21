@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+venv311/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.pkl
